@@ -12,8 +12,6 @@ Can we estimate medical insurance charges using age, BMI, smoking status, and ot
 - **Target:** `charges` (billed medical insurance charges)
 - **Features:** `age`, `sex`, `bmi`, `children`, `smoker`, `region`
 
-The CSV file is read locally from the same folder as the notebook. It has no missing values. The original data contains one duplicate row, which is retained in this beginner project.
-
 ## Project Workflow
 
 1. Load and explore the data with Pandas
@@ -33,20 +31,6 @@ Results from the notebook's test split (`random_state=42`):
 | RMSE | 5,796.28 |
 | R² | 0.784 |
 
-These are evaluation results on one held-out split, not guaranteed performance on new populations.
-
-## Run Locally
-
-Keep these files in the same folder:
-
-```text
-medical-cost-prediction/
-├── Medical_Cost_Prediction.ipynb
-├── insurance.csv
-└── README.md
-```
-
-Open `Medical_Cost_Prediction.ipynb` in JupyterLab or Jupyter Notebook and run the cells in order. Python packages used: **pandas, matplotlib, seaborn, scikit-learn**.
 
 ## Limitations
 
