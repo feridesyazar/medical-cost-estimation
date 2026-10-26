@@ -38,4 +38,4 @@ This is an educational regression exercise using a small public dataset of US in
 
 ## Data Attribution
 
-Dataset: [Medical Cost Personal Datasets on Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance). Review the dataset's license and reuse conditions before redistributing its CSV file.
+Dataset: [Medical Cost Personal Datasets on Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance)
