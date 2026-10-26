@@ -6,7 +6,6 @@ Can we estimate medical insurance charges using age, BMI, smoking status, and ot
 
 ## Dataset
 
-- **Source:** [Medical Cost Personal Datasets — Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 - **File:** `insurance.csv`
 - **Size:** 1,338 records and 7 columns
 - **Target:** `charges` (billed medical insurance charges)
